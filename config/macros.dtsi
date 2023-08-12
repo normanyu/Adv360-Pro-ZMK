@@ -40,3 +40,9 @@ label = "macro_aoe2_vills";
 #binding-cells = <0>;
 bindings = <&kp LC(LS(H))>, <&kp LS(A)>;
 };
+macro_ctrl_shift: macro_ctrl_shift{
+compatible = "zmk,behavior-macro";
+label = "macro_ctrl_shift";
+#binding-cells = <0>;
+bindings = <&kp LS(LC)>;
+};
