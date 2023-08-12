@@ -1,1 +1,10 @@
-[]
+[
+	{
+		"code": "macro",
+		"name": "macro",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
